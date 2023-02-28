@@ -1,6 +1,6 @@
 # virtual-file-system
 
-Virtual file system implemented using inodes mechanism.
+Virtual file system implemented using inodes mechanism. Project was developed for the purposes of the Operating Systems(SOI) course at Warsaw University of Technology.
 
 ## Build
 
